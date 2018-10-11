@@ -1,0 +1,13 @@
+Cordinates Detector v 1.00
+
+Enter number of slots you will need
+Type :start: for start
+Type :new: for new slot
+Hold :ctrl+c for stop detecting
+For correct save enter it like : X 411 Y 545 RGB 12, 12 ,12 :
+In :start>>>: type :delete: for delet all saves
+
+! The  "End? " will utomatically responds 
+to an incorrect command like "nooooaida " or "yessos"
+by quitting the program !
+
