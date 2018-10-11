@@ -1,5 +1,5 @@
 # Cordinates-Detector
-Program for detect/save/open your mouse Cordinates
+Program for detect/save/open your mouse cordinates
 
 I used pyautoGui for detecting Cordinates and colour
 https://github.com/asweigart/pyautogui
