@@ -2,7 +2,7 @@ import pyautogui
 
 def manual():
 
-    print("\nCordinates Detector v 1.20\nCopyright(c) 2018 Program Valley\n\nEnter number of slots you will need\n"
+    print("\nCoordinate Detector v 1.20\nCopyright(c) 2018 Program Valley\n\nEnter number of slots you will need\n"
           "Type :new: for new slot\nHold :ctrl+c for stop detecting")
     print("For correct save enter it like : X 411 Y 545 RGB 12, 12 ,12 :\nIn :start>>>: type :delete: for delet all saves\n ")
 
